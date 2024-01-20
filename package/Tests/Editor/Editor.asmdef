@@ -1,0 +1,24 @@
+{
+  "name": "@ROOT_NAMESPACE@.Editor.Tests",
+  "rootNamespace": "@ROOT_NAMESPACE@",
+  "references": [
+    "@ROOT_NAMESPACE@",
+    "@ROOT_NAMESPACE@.Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

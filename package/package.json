@@ -1,0 +1,18 @@
+{
+    "name": "@NAME@",
+    "displayName": "@DISPLAY_NAME@",
+    "version": "0.0.1",
+    "unity": "@UNITY_VERSION_SHORT@",
+    "license": "BSD-2-Clause",
+    "description": "@DESCRIPTION@",
+    "dependencies": {},
+    "homepage": "https://github.com/@GH_USER@/@GH_REPO@.git",
+    "bugs": {
+        "url": "https://github.com/@GH_USER@/@GH_REPO@/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://gitgithub.com/@GH_USER@/@GH_REPO@.git"
+    },
+    "author": "@AUTHOR_NAME@ (@AUTHOR_EMAIL@)"
+}
