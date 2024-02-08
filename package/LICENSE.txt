@@ -1,5 +1,3 @@
-# The 2-Clause BSD License (BSD-2)
-
 Copyright @YEAR@ @AUTHOR_NAME@ (@GH_USER@)
 
 Redistribution and use in source and binary forms, with or without modification,

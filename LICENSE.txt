@@ -1,5 +1,3 @@
-# The 2-Clause BSD License (BSD-2)
-
 Copyright 2024 Simone Livieri (dwenegar)
 
 Redistribution and use in source and binary forms, with or without modification,

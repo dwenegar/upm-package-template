@@ -1,6 +1,6 @@
 # Unity Package Template
 
-[![License](https://img.shields.io/github/license/dwenegar/upm-package-template?label=License)](LICENSE.md)
+[![License](https://img.shields.io/github/license/dwenegar/upm-package-template?label=License)](LICENSE.txt)
 [![Version](https://img.shields.io/github/v/tag/dwenegar/upm-package-template?label=Version&logo=semver&sort=semver)](CHANGELOG.md)
 
 This is a template repository for creating new repositories for Unity Package Manager packages.
@@ -20,4 +20,4 @@ It is for personal use, but everyone is welcome to use it.
 
 ## License
 
-[BSD-2-Clause license](LICENSE.md).
+[BSD-2-Clause license](LICENSE.txt).

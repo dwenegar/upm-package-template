@@ -1,7 +1,7 @@
 # @DISPLAY_NAME@
 
 [![Docs](https://img.shields.io/github/workflow/status/@GH_USER@/@GH_REPO@/Docs?label=Docs)](https://@GH_USER@.github.io/@GH_REPO@/)
-[![License](https://img.shields.io/github/license/@GH_USER@/@GH_REPO@?label=License)](LICENSE.md)
+[![License](https://img.shields.io/github/license/@GH_USER@/@GH_REPO@?label=License)](LICENSE.txt)
 [![Version](https://img.shields.io/github/v/tag/@GH_USER@/@GH_REPO@?label=Version&logo=semver&sort=semver)](CHANGELOG.md)
 
 This is the @NAME@ package's README file.

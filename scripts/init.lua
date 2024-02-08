@@ -172,7 +172,7 @@ end
 sed(config, {
   'package/Documentation~/index.md',
   'package/Editor/Editor.asmdef',
-  'package/LICENSE.md',
+  'package/LICENSE.txt',
   'package/Makefile',
   'package/package.json',
   'package/README.md',
@@ -186,7 +186,7 @@ sed(config, {
 })
 
 mv('package/README.md', 'README.md')
-mv('package/LICENSE.md', 'LICENSE.md')
+mv('package/LICENSE.txt', 'LICENSE.txt')
 mv('package/Makefile', 'Makefile')
 mv('package/Editor/Editor.asmdef', ('package/Editor/%s.Editor.asmdef'):format(root_namespace))
 mv('package/Runtime/Runtime.asmdef', ('package/Runtime/%s.asmdef'):format(root_namespace))
